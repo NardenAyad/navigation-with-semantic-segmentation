@@ -25,8 +25,9 @@ this repo is an implementation of semantic segmentation using cityscape dataset 
 
 ## How it works!
 
-
-## 
+![16](https://user-images.githubusercontent.com/49832164/138408519-3dddeac3-c524-43bb-9e4e-e296b3c6234b.png)
+![17](https://user-images.githubusercontent.com/49832164/138408551-51768b5d-fa14-4230-98ce-1c176c77e913.png)
+![19](https://user-images.githubusercontent.com/49832164/138408587-eeecdd47-66ec-4eb5-a4bd-2d721e436c71.png)
 
 
 
